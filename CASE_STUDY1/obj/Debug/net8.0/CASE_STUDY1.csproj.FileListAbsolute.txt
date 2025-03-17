@@ -1,0 +1,14 @@
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\bin\Debug\net8.0\CASE_STUDY1.exe
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\bin\Debug\net8.0\CASE_STUDY1.deps.json
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\bin\Debug\net8.0\CASE_STUDY1.runtimeconfig.json
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\bin\Debug\net8.0\CASE_STUDY1.dll
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\bin\Debug\net8.0\CASE_STUDY1.pdb
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\CASE_STUDY1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\CASE_STUDY1.AssemblyInfoInputs.cache
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\CASE_STUDY1.AssemblyInfo.cs
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\CASE_STUDY1.csproj.CoreCompileInputs.cache
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\CASE_STUDY1.dll
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\refint\CASE_STUDY1.dll
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\CASE_STUDY1.pdb
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\CASE_STUDY1.genruntimeconfig.cache
+C:\Users\z004cadz\Documents\CS1\CASE_STUDY1\obj\Debug\net8.0\ref\CASE_STUDY1.dll
